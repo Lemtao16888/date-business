@@ -19,8 +19,8 @@ Dbus(dbus,day) //
 
 ## params
 
-* `dbus` **{String}**: 时间段
-* `day` **{Number}**: 设置本周第一天从周几开始(0:周日，1:周一)
+* `dbus` **{String}**: 必传 时间段
+* `day` **{Number}**:  dbus为周时可选传 设置本周第一天从周几开始(0:周日，1:周一)
 
 
 ## eg
