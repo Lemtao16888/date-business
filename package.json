@@ -1,0 +1,20 @@
+{
+  "name": "date-business",
+  "version": "1.0.0",
+  "description": "time period for business needs  _-_-_-_-  translatio from translate.google.cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "本周时间",
+    "本月时间",
+    "上周时间",
+    "上月时间",
+    "本季度时间",
+    "上周一"
+  ],
+  "author": "kingkong_tao",
+  "license": "ISC"
+}
