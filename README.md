@@ -1,7 +1,7 @@
 # DateBusiness
 
 ```
-npm install cyclist
+npm install data-business
 ```
 
 
