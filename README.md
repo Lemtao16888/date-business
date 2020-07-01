@@ -38,3 +38,9 @@ console.log( Dbus("本周"), 1 )
 //可选（本周、上周、本月、上月、本季度、上季度）
 
 ```
+
+
+## Related
+
+- [date-business](https://github.com/sindresorhus/open-cli) 
+
